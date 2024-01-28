@@ -6,7 +6,7 @@ k8s 인프라 정리 문서에 대해 다룹니다.
 
 [하드웨어 아키텍처 이미지](/images/k8sNodes.png)
 
-### [devwiki_k8s.md의 목차로 이동](/devwiki_k8s.md)
+### [k8s 클러스터 관리](/devwiki_k8s.md)
 
 1. [하드웨어 아키텍처](/devwiki_k8s.md#하드웨어-아키텍처)
    - [스펙 기록](/devwiki_k8s.md#스펙-기록)
@@ -16,7 +16,7 @@ k8s 인프라 정리 문서에 대해 다룹니다.
 
 ## k8s 배포 방법과 버그 기록
 
-### [deployK8s.md의 목차로 이동](/deployK8s.md)
+### [k8s 배포 방법과 버그 기록](/deployK8s.md)
 
 1. [작성 목적](/deployK8s.md#작성-목적)
 2. [환경](/deployK8s.md#환경)
